@@ -8,10 +8,7 @@ Welcome to the Distalk repository! Distalk is a responsive, 3D interactive proto
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
