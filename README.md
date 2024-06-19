@@ -23,6 +23,10 @@ You can explore the live demo of the Distalk prototype [here](https://my.spline.
 - **Engaging User Interface**: Immersive and intuitive UI elements for a unique user experience.
 - **Prototype of Chatting App**: A conceptual design of a chatting application to showcase potential features and interactions.
 
+## Project Overview
+![image](https://github.com/nityambhargava/Distalk-Chat-Application/assets/149382373/a4e98c23-8d07-490e-98b7-1f2484b16217)
+
+
 ## Technologies Used
 
 - **Spline**: For creating and designing 3D interactive elements.
